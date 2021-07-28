@@ -1,0 +1,5 @@
+Descargas
+Visual Studio Code: https://code.visualstudio.com/download
+Python: https://www.python.org/downloads/
+Pseint: http://pseint.sourceforge.net/
+Opción dos: https://repl.it
