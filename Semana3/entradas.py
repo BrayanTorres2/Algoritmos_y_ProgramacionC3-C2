@@ -1,0 +1,6 @@
+entradas=input("")
+(a,b)=entradas.split(" ")
+a=int(a)
+b=int(b)
+print("entrada 1", a)
+print("entrada 2", b)
