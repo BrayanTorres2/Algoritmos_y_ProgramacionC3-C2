@@ -1,0 +1,32 @@
+#Métodos de las listas
+#append()
+#clear()
+#extend() une una lista con otra
+#count()
+#index()
+#insert(posicion,elemento)
+#pop()
+#remove()
+#reverse()
+#sort()
+#.sort(reverse=True)
+#lista
+#tuplas
+lista=["mango","limon","Coco","manzana","melon","mango"]#lista
+lista2=[3,2,3,4,5,61,7,1,9,10]
+#tamaño=5
+fruta="Banano"
+lista.append(fruta)
+tamano=len(lista)#7
+#lista.clear()
+#lista3=lista.extend(lista2)
+contador=lista.count("mango")
+#p=lista.index("Melon")
+lista.insert(0,"Pera")
+#lista.pop(0)
+#lista.remove("Coco")
+#lista.reverse()
+#lista2.sort(reverse=True)
+#tamaño=
+tuplas=("Laura","Camila","Gabriel","Lorena","Camila")#tupla
+print(tuplas.count("Camila"))
